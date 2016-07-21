@@ -50,7 +50,6 @@ Background Color (Simplified) : #333333 or #000000
 
 Tip:
 Put following code in <head> of HTML file will enable you to use files as favicon which are optimized for various devices..
-다음의 코드를 HTML 파일의 Head에 삽입하면 기기에 맞는 Favicon으로 사용할 수 있습니다.
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
